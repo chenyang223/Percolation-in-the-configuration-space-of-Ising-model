@@ -1,4 +1,5 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # 伊辛模型的构型空间渗流(Percolation in the configuration space of Ising model)
 
 ## 算法
